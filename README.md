@@ -1,16 +1,8 @@
-# platformconverter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230921_211558](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/a77b76c1-161f-42d0-b5bf-0afa28a5015a)
+![Screenshot_20230921_211422](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/51752e1c-d777-4b0c-90cc-4bf5dd8ff42a)
+![Screenshot_20230921_211326](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/84c92a40-eda3-45df-8e70-86ee801c4b09)
+![Screenshot_20230921_211729](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/9fe536f8-2b76-4a39-a2b3-63183d105763)
+![Screenshot_20230921_211714](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/a967b5f6-691b-4913-8791-f76ec6ecd2d4)
+![Screenshot_20230921_211646](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/ca29e747-f438-4012-8a69-1d653da4f29e)
+![Screenshot_20230921_211631](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/31a8fcf5-1603-4d4b-a6af-ff5fa6f49385)
+![Screenshot_20230921_211609](https://github.com/Vaibhav-Bhalala/platform_converter_AF_Vaibhav_Flutter_app/assets/122871366/7ce1db7f-cec2-43ae-9bb3-54473216a827)
